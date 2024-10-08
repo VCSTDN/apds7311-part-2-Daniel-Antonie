@@ -9,6 +9,8 @@ Mauro Coelho -ST10080441
 Gabriella Janssen - ST10034968
 Daniel Antonie - ST10186731
 
+youtube tutorial -https://youtu.be/zI95b68un2Y
+
 Features
 •	User Registration and Authentication: Secure user signup and login using JWT (JSON Web Tokens) and password hashing.
 •	Payment Processing: Allows authenticated users to make payments and view their payment history.
@@ -71,15 +73,16 @@ Before setting up and running the project, ensure you have the following install
 •	MongoDB Atlas Account: For hosting the MongoDB database.
 •	SSL Certificates: certificate.pem, privatekey.pem for HTTPS.
 •	Git: For version control.
+
 Installation
-
-
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/internal-international-payment-system.git
+git clone + this repos URL
 
-2. Navigate to the Project Directory
+or clone the repository straight into VS code if you have the text editor installed
+
+3. Navigate to the Project Directory
 bash
 Copy code
 cd internal-international-payment-system
